@@ -20,11 +20,11 @@ Expanding expertise in distributed computing with Spark and Hadoop.
 Earning AWS Certified Solutions Architect Associate certification.
 
 📂 Featured Projects
--Transit Data Analysis
+Transit Data Analysis
 Designed and implemented a data pipeline to analyze ridership trends for the MTA.
 Tools: Python, SQL, AWS S3, Redshift.
 
--Stockout Data Dashboard
+Stockout Data Dashboard
 Created a Power BI dashboard to track percentage stockout by storerooms for the MTA.
 Focused on data cleaning, DAX formulas, and dynamic visualizations.
 
