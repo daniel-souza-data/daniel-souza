@@ -40,7 +40,7 @@ I bring a unique blend of teaching, technical expertise, and industry experience
 ---
 
 ## 💬 Let's Connect  
-I'm always open to collaborating on **data engineering projects** or sharing insights into **cloud computing** and **analytics workflows**.  
+I'm always open to collaborating on data engineering projects or sharing insights into cloud computing and analytics workflows.  
 Feel free to reach out via:  
 - [LinkedIn](https://www.linkedin.com/in/danisouza1993/)  
 - [Email](mailto:danieldeoliveira1993@gmail.com)
